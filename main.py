@@ -23,8 +23,6 @@ async def start(client, message):
 
 I can convert Image to PDF.
 
-This bot was created by @PythonDew
-
 If you want to convert more Image to PDF, Send image.
 """, reply_to_message_id=message.from_user.id)
 
